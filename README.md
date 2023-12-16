@@ -45,7 +45,7 @@ The all config parameters are shown in train_demo2test.py.
 
 # Trend Graph Results
 The trend of number and unique number of failure scenarios found by Demo2Test and baselines:
-![图片](images/RQ2_result.png)
+![图片](images/RQ1_supply.png)
 
 # Reference
 - https://github.com/HumanCompatibleAI/adversarial-policies
