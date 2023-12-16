@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: aprl
+Version: 0.2
+Summary: Adversarial Policies for Reinforcement Learning
+Home-page: https://github.com/HumanCompatibleAI/adversarial-policies
+Author: Adam Gleave, Michael Dennis, et al
+Author-email: adam@gleave.me
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.0
+License-File: LICENSE
