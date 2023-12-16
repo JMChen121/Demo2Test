@@ -41,7 +41,7 @@ To test in the game of 'SumoAnts', using the source demonstrations in 'data/traj
 python src/aprl/train_demo2test.py --game_name="SumoAnts-v0" --expert_dataset_path="data/trajectories/RunToGoalAnts_source_traj.npz"
 ```
 
-The all config parameters are shown in train_demo2test.py
+The all config parameters are shown in train_demo2test.py.
 
 # Trend Graph Results
 The trend of number and unique number of failure scenarios found by Demo2Test and baselines:
