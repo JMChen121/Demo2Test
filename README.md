@@ -48,6 +48,6 @@ The trend of number and unique number of failure scenarios found by Demo2Test an
 ![图片](images/RQ1_supply.png)
 
 # Reference
-- https://github.com/HumanCompatibleAI/adversarial-policies
-- https://github.com/openai/multiagent-competition
-- https://github.com/NeteaseFuxiRL/wuji
+- https://github.com/HumanCompatibleAI/adversarial-policies/
+- https://github.com/openai/multiagent-competition/
+- https://github.com/Khrylx/PyTorch-RL/
