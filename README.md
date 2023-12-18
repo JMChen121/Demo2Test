@@ -48,6 +48,9 @@ The data format refers to the example of 'data/trajectories/RunToGoalAnts_source
 # Trend Graph Results
 The trend of number and unique number of failure scenarios found by Demo2Test and baselines:
 ![图片](images/RQ1_supply.png)
+Results show that in each time duration, Demo2Test outperforms all four baselines, whether considering the terminating state of the fault scenario or all states.
+
+The transfer settings from T1 to T4 and the presentation of each baseline can be found in our paper.
 
 # Reference
 - https://github.com/HumanCompatibleAI/adversarial-policies/
