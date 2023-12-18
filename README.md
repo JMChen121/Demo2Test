@@ -50,7 +50,7 @@ The trend of number and unique number of failure scenarios found by Demo2Test an
 ![图片](images/RQ1_supplement.png)
 Results show that in each time duration, Demo2Test outperforms all four baselines, whether considering the terminating state of the fault scenario or all states.
 
-The transfer settings from T1 to T4 and the presentation of each baseline can be found in our paper.
+The details of transfer settings from T1 to T4 and the each baseline can be found in our paper.
 
 # Reference
 - https://github.com/HumanCompatibleAI/adversarial-policies/
