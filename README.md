@@ -54,7 +54,33 @@ The details of transfer settings from T1 to T4 and the each baseline can be foun
 
 # Unique Failures Discovered Solely by Demo2Test
 ![图片](images/UF_samples.png)
+First, we cluster all failure scenarios found by baselines and Demo2Test, and each cluster represents a unique failure scenario. 
+Across all tasks, {\tool} can encompass all the unique failure scenarios discovered by the baselines. 
+After that, we manually analyze the videos of unique failure scenes found only by {\tool}.
 
+**T1-1**: The testing agent attacks the leg of target agent, causing failure. This stems from knowledge learned from demonstrations. 
+
+**T1-2**: The testing agent lunges at the target agent, causing failure. This is caused by perturbations in key states.
+
+**T1-3**: The testing agent rams the target agent, causing it to fly off, resulting in the failure. This is caused by perturbations in key states.
+
+**T2-1**: The testing agent punches to knock down the target agent, causing failure. This is caused by perturbations in key states.
+
+**T2-2**: The testing agent tackles the target agent, causing it to fall and fail. This stems from knowledge learned from demonstrations. 
+
+**T2-3**: The testing agent trips the target agent after falling down, leading to failure. This is caused by perturbations in key states.
+
+**T3-1**: The testing agent moves forward and crashes into the target agent, causing it to fall. This is caused by perturbations in key states.
+
+**T3-2**: The testing agent trips the target agent, causing it to fall and be unable to move. This is caused by perturbations in key states.
+
+**T3-3**: The testing agent forces the target agent to back away continuously to cause failures. This stems from knowledge learned from demonstrations. 
+
+**T4-1**: The testing agent attacks the leg of target agent, causing failure. This stems from knowledge learned from demonstrations. 
+
+**T4-2**: The testing agent uses its body to knock down the target agent, causing failure. This is caused by perturbations in key states.
+
+**T4-3**: The testing agent uses its hands to push over the target agent, resulting in failure. This is caused by perturbations in key states.
 
 # Reference
 - https://github.com/HumanCompatibleAI/adversarial-policies/
