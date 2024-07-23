@@ -52,6 +52,10 @@ Results show that in each time duration, Demo2Test outperforms all four baseline
 
 The details of transfer settings from T1 to T4 and the each baseline can be found in our paper.
 
+# Unique Failures Discovered Solely by Demo2Test
+![图片](images/UF_samples.png)
+
+
 # Reference
 - https://github.com/HumanCompatibleAI/adversarial-policies/
 - https://github.com/openai/multiagent-competition/
