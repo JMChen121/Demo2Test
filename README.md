@@ -55,8 +55,8 @@ The details of transfer settings from T1 to T4 and the each baseline can be foun
 # Unique Failures Discovered Solely by Demo2Test
 ![图片](images/UF_samples.png)
 First, we cluster all failure scenarios found by baselines and Demo2Test, and each cluster represents a unique failure scenario. 
-Across all tasks, {\tool} can encompass all the unique failure scenarios discovered by the baselines. 
-After that, we manually analyze the videos of unique failure scenes found only by {\tool}.
+Across all tasks, Demo2Test can encompass all the unique failure scenarios discovered by the baselines. 
+After that, we manually analyze the videos of unique failure scenes found only by Demo2Test.
 
 **T1-1**: The testing agent attacks the leg of target agent, causing failure. This stems from knowledge learned from demonstrations. 
 
