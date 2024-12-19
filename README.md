@@ -82,6 +82,23 @@ After that, we manually analyze the videos of failure scenarios found only by De
 
 **T4-3**: The testing agent uses its hands to push over the target agent, resulting in failure. This is caused by perturbations in key states.
 
+# Citation
+
+If you find this repository useful, please cite our [paper](https://doi.org/10.1145/3696001):
+```
+@article{chen2024-Demo2Test,
+author = {Chen, Jianming and Wang, Yawen and Wang, Junjie and Xie, Xiaofei and Wang, Dandan and Wang, Qing and Xu, Fanjiang},
+title = {Demo2Test: Transfer Testing of Agent in Competitive Environment with Failure Demonstrations},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {10.1145/3696001},
+note = {Just Accepted},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = sep
+}
+```
+
 # Reference
 - https://github.com/HumanCompatibleAI/adversarial-policies/
 - https://github.com/openai/multiagent-competition/
